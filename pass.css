@@ -1,0 +1,45 @@
+body{
+  background-image: url(/Scuba-divers-Red-Sea.jpg)
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li{
+  float: left;
+}
+li a{
+  display: block ;
+  color: white;
+  padding: 14px 20px;
+  text-decoration:none;
+}
+.dive{
+  color: #FFFFFF;
+  font-style: bold;
+  margin:40px 0 20px 30px;
+  box-sizing: border-box;
+}
+.para_1{
+  color: #FFFFFF;
+  width:40%;
+  margin: 30px 0px 20px 20px;
+}
+h2{
+  text-align: center;
+  color: white;
+}
+.para_2{
+  text-align: center;
+  color: white;
+}
+.container{
+  display: flex;
+  justify-content: space-evenly;
+}
+img{
+  height: 90%;
+  width: 90%;
+}
